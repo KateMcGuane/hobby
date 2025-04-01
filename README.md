@@ -253,6 +253,6 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
 
   ---
   
-  Developed by Kate McGuane for Code Institute Portfolio Project 1: HTML & CSS Essesntials
+  Developed by Kate McGuane for Code Institute Portfolio Project 1: HTML & CSS Essesntials, 2024
 
 
