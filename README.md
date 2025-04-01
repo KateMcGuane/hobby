@@ -250,3 +250,9 @@ Please see [TESTING.md](TESTING.md) for a comprehensive list of tests performed.
   - My dear friend, Sarah, you are a wonderful teacher, gave valauble insight & resources.
   - My partner, Mikhail, for keeping me well fed and hydrated throughout this project.
   - To my cohort leader, Laura, who provided a sense of calm when needed most. Your guidance gave me the reassurance I needed.
+
+  ---
+  
+  Developed by Kate McGuane for Code Institute Portfolio Project 1: HTML & CSS Essesntials
+
+
